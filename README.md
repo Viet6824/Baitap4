@@ -19,12 +19,16 @@
 ### Tạo database
 ![image](https://github.com/user-attachments/assets/1aefd483-2be3-4c4b-a6a2-f4ab58461c9e)
 ### Tạo bảng
-![image](https://github.com/user-attachments/assets/13d1cdd9-5a16-4911-9ce5-44fd79b764c0)
-![image](https://github.com/user-attachments/assets/b53dc6a7-d2bb-413e-a481-84b27a75dcc9)
-![image](https://github.com/user-attachments/assets/772a313b-c179-4b69-91a8-f159f4613a1b)
-![image](https://github.com/user-attachments/assets/bffe23bd-a45c-4d50-8e69-160989241d24)
-![image](https://github.com/user-attachments/assets/725e6861-7573-4ad9-bdd6-4a6fdfb14421)
-![image](https://github.com/user-attachments/assets/a86f3800-296a-4249-905b-c27feb4bae89)
+![image](https://github.com/user-attachments/assets/4cbd1037-0544-4a13-b1ad-0edb292a0848)
+![image](https://github.com/user-attachments/assets/50b263be-e8e5-437b-bd83-83458f24bbd0)
+![image](https://github.com/user-attachments/assets/94e1b682-7c6b-41bd-836b-b2e236659f43)
+![image](https://github.com/user-attachments/assets/ce696a8f-e131-4393-ba26-aa6916fb5a04)
+### Copy dữ liệu
+![image](https://github.com/user-attachments/assets/96b23cf8-1043-4341-8c4e-3214cee358e3)
+![image](https://github.com/user-attachments/assets/b6d9c6ea-b50d-427b-b2e1-2c14ed0eb169)
+### Truy xuất 
+![image](https://github.com/user-attachments/assets/10ac7b08-38df-483c-87ce-90a0f7b90df8)
+
 
 
 
